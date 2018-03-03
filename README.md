@@ -1,0 +1,2 @@
+# Linear-control-system
+In this project, a linear control system for the insect robot is formed. For simplicity the 2-D planar case is considered. We try to control the Roll angle and lateral velocity of the robot. We take the nonlinear ODE, linearize it around a fixed point and form a state space linear time invariant system (LTI), test its stability and assess controllability and observability. We also make various computations on the LTI system and try applying the results obtained from the computations on the nonlinear system.
